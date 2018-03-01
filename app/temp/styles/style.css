@@ -1005,11 +1005,11 @@ a
 
 .icons
 {
-    background-image: url('/assets/images/sprites/sprite-c0c24dfc.svg');
+    background-image: url('../../assets/images/sprites/sprite-c0c24dfc.svg');
 }
 
 .no-svg .icons{
-    background-image: url('/assets/images/sprites/sprite-c0c24dfc.png');
+    background-image: url('../../assets/images/sprites/sprite-c0c24dfc.png');
 }
 
 .icons--clear-view-escapes {
